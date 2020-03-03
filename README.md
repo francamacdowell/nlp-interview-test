@@ -6,7 +6,7 @@
 - The main objective of the test is to assess the candidate's ability to solve problems and demonstrate his attempts, hypotheses, solutions clearly
 
 ### Example interaction
-Apenas um exemplo demonstrativo para entendimento do problema, o output pode ser formatado da preferencia do candidato portanto que mostre a intenção e a confidencia
+Just a demonstrative example to understand the problem, the output can be formatted according to the candidate's preference so that it shows the intention and the confidentiality
 ```
 input: meu marido me agrediu
 output: violence: 95.0%
