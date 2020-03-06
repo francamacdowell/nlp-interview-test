@@ -1,0 +1,324 @@
+
+ intent:competencias
+-  apg 
+-  APG 
+-  Assessoria de Planejamento e Gestão 
+- onde a  diretoria financeira  atua
+- qual a função principal da  diretoria geral ?
+- quero entender o que as  diretorias  fazem
+- trabalho da  coordenação de proj 
+- obrigações  coord de projetos 
+- quem trabalha na  assessoria de planejamento  faz oq?
+- quais as atribuições da  assessoria de gestão ?
+- serviços das  assessorias 
+- diretorias gerais
+- diretorias
+- funções  coordenação 
+- deveres  coord projeto 
+- deveres  coordenação do projeto 
+- deveres da  assessorias de planejamento e gestão 
+- deveres  diretorias gerais, administrativas e financeiras? 
+- funções  diretoria financeira 
+-  diretoria administrativa  deveres
+-  diretoria geral  atribuições
+-  assessoria de planejamento e gestão  deveres
+-  assessoria de gestão  atribuições
+- deveres  asssessoria de planejamento 
+- deveres das coordenações de projeto do SEI Bahia, quais são?
+- quais as atribuições das assessorias
+- como funciona as diretorias gerais
+- qual o trabalho das diretorias
+- quais as funções da diretoria financeira
+
+ intent:digitalizacao
+- como inserir  documentos externos ?
+- nem soube como  receber  os documentos
+- preciso do meu documento  de volta 
+- ainda não  recebi  meu documento da digitalização
+- quando  recebo  meu documento de volta?
+-  digitalizo 
+- quando receberei
+-  quais são 
+-  digital 
+-  digitais 
+- digitalizacao documentos
+- digitalizacao
+-  recebo 
+-  recebimentos 
+-  receber  documentos
+-  receberei  documentos
+-  digitalização  documentos
+-  procedimentos para digitalização  de documentos
+-  digitalizar  um documento
+-  digitalizo  documentos
+-  digitalizacao 
+-  procedimento para digitalizacao 
+- recebimento dos documentos pós digitalização
+- data para recebimentos dos documentos originais
+- quero receber meus documentos originais
+- quando vou receber os meus documentos de volta
+- preciso digitalizar meus documentos
+- como funciona a digitalizacao de documentos
+- quero digitalizar meus documentos no SEI
+
+ intent:usuario
+-  remover 
+-  apagar 
+-  descredenciar  usuario
+- o que é  niveis de acesso 
+- como  adicionar  um usuario
+-  inserir 
+-  adicionar 
+-  credenciar 
+- quais os  tipos de usuário ?
+-  qual os 
+-  qual o 
+-  acesso 
+-  acessar 
+-  tipos de acesso 
+-  tipo usuário 
+-  tipos de users 
+-  tipos de usuario 
+-  qual tipo  usuário
+-  dever  usuario
+-  apagar  usuario
+-  criar  usuario
+- realizar  descredenciamento  usuario
+-  niveis de acesso  funcionam
+-  níveis de acesso 
+-  quem são 
+- competencia dos  funcionarios 
+- funcao usuarios  externos 
+- competencias dos usuarios  internos 
+-  quais usuarios  existem?
+-  quais usuários  existem?
+- fulano  colaborador 
+- fulano  interno 
+- fulano  externo 
+-  deveres  do usuario
+-  usuario colaborador 
+-  usuario externo 
+-  usuario interno 
+-  modelos  de usuário
+-  diferentes acessos  de usuário
+-  funções rio interno
+-  deveres rio interno
+-  obrigações  rio interno
+- funções do  usuário externo 
+- obrigações  usuário externo 
+- deveres do  usuário colaborador 
+- obrigações  usuário colaborador 
+- validar  credenciamento  do usuario
+- fazer  credenciamento  usuario
+- efetivar  descredenciamento  usuario externo
+- tipos de acesso de usuario
+- tipos de acesso SEI
+- como apagar um usuario externo
+- tipos de credenciamento usuarios externos
+- como credenciar usuario externo
+- para que serve o usuario externo
+- funções usuarios colaborador
+- deveres do usuario interno
+- tipificação usuarios
+- tipos de users
+- quais são os tipos de usuario
+
+ intent:processos_administrativos
+-  transferência 
+-  transferencia 
+- como ocorre a  transferência  de processos para o SEI?
+- processos  desapensar  no SEI
+- o que é  desapensamento  de processos
+-  sobrestamento 
+- o que é  sobrestamento  de processo?
+- o que é sobrestamento de processo?
+-  crio 
+-  criar 
+-  identifico 
+- inserir  docs externos 
+- como insiro um  documento de fora  em um processo?
+-  relacionar 
+-  relaciono 
+-  transfiro 
+-  transferir 
+- quais são os  processos possiveis 
+-  apensamento  o que significa
+-  desapensar 
+-  apensar 
+- quero  sobrestar  um processo
+- como  produzir  documentos
+-  produzir 
+-  produzir os documentos  compõem processos administrativos
+-  sobrestamento de processo 
+- processos administrativos  identificados 
+-  tipos de processos 
+- tipos processos
+- colocar docs processos
+- inserir documentos processo
+-  tipos processo 
+- transferencia de processo
+-  processos administrativos 
+-  sobrestamento  de processos
+-  apensamento de processos 
+-  desapensamento de processos 
+-  relacionamento  entre processos
+-  transferência  de processos
+-  trasnferencia  dos processos
+-  transferencia processual 
+-  tipos processuais  disponiveis
+-  digitalizar  processos
+-  produzidos  documentos dos processos administrativos
+-  insiro docs  processos
+-  sobrestamento 
+-  apensamento 
+-  desapensamento 
+-  relaciono  processo
+-  processos administrativos existem 
+-  transfiro  processos
+-  insiro 
+-  tipos de processos  existente
+-  relacionamento de processos  utilidade
+-  relacionamento de processos  como funciona
+-  desapensamento de processos  utilidade
+-  apensamento de processos  utilidade
+-  inserir doc externo  nos processos administrativos
+-  adicionar documentos externos  nos processos
+-  inserção de documentos externos  processos administrativos
+-  produzir documentos  dos processos administrativos
+-  produção de documentos  para processos administrativos
+-  identificar  os processos administrativos
+-  identificação 
+- o que é  apensamento  de processos?
+- transferir processos de fora para o SEI
+- como funciona transferencia de processo
+- quero transferir meu processo para o SEI
+- tipos de processo SEI
+- quais são os tipos de processo do SEI
+- tipos de processos administrativos SEI
+- quero relacionar meu processo com outro no SEI
+- funcionamento relacionamento de processos SEI
+- relacionamento de processos no SEI
+- o que é desapensamento de processos
+- desapensar processos no SEI
+- apensar processos definição
+- o que é apensamento de processos
+- sobrestamento de processo como funciona
+- para que serve o sobrestamento de processo
+- sobrestamento de processo explicação
+- quero inserir documentos no meu processo do SEI
+- inserção documentos no processo
+- como inserir documentos nos processos administrativos SEI
+- quero produzir docs para os processos adm
+- produção documentos para processo administrativo
+- quero produzir os documentos que compõem o processo administrativo
+- como funciona a identificação dos processos no SEI
+- quero identificar os processos administrativos
+- como identificar processos administrativos
+
+ intent:definicoes
+-  legal 
+-  decreto 
+-  legalidade  ?
+- Existe algum decreto que comprove a  legalidade  do processo?
+- A  assinatura eletrônica  válida?
+-  Tabela de Temporalidade 
+-  Tabela de Temporalidade de Documentos 
+-  ttd 
+- Temporalidade de documentos
+- é possivel gerir documentos?
+-  gerir  documentos
+- qual o uso da  assinatura eletrônica 
+- o que é  crc 
+- qual a finalidade do  ttd 
+- como  funciona 
+- quais os  tipos de administradores 
+- o que é
+-  tipos de adm 
+-  assinatura eletronica 
+-  assinatura eletrica 
+-  funciona 
+-  gestão de documentos 
+-  código crc 
+-  codigo CRC 
+-  bloco de assinaturas 
+-  assinatura eletrônica 
+-  gestao de documentos 
+-  TTD 
+-  tipos de administradores 
+-  CRC 
+-  administradores existem 
+- definição  tipos de administradores 
+- definição  ttd 
+-  TTD  função
+-  definição  gestão de documentos
+- definição  codigo crc 
+- definição  bloco de assinaturas 
+- definição  assinatura eletrônica 
+- assinatura eletrica para que serve?
+- o que é assinatura eletronica?
+- para que serve o bloco de assinaturas?
+- qual a utilidade de um bloco de assinaturas?
+- código crc definição
+- uso do código crc
+- gestão de documentos como executar
+- como funciona a gestão de documentos no SEi
+- utilidade do ttd no SEI
+- para que serve o TTD?
+- funções dos tipos de administradores
+- quais são os tipos de adm
+
+ intent:documentacao
+- quais os  tipos de documentação ?
+-  tipos de documentos 
+- quais são os  tipos de documento ?
+- melhor  forma  de mandar um arquivo pro SEI Bahia
+- quero saber o  formato  para entregar documento
+- quais são os  documentos disponíveis ?
+- acessar  docs eletronicos  do SEI
+-  documento eletrônico  como visualizar
+-  docs eletronicos 
+- como ver os  docs eletricos ?
+- documentos  offline 
+- quero ver documentos  off 
+-  offline 
+-  off 
+- quais os  tipos de doc 
+-  tipos de documentação  comporta seus acessos
+-  melhor formato 
+-  documentos eletrônicos  criados
+- acesso  documentos eletrônicos 
+- como acesso informações contidas em documentos  sem ser online ?
+-  sem ser online 
+- acesso informações documentos  sem ser online 
+-  docs tipos 
+-  tipos de documentacao 
+-  tipos de documentação 
+-  tipos de doc 
+-  forma 
+-  melhor forma 
+-  formato 
+-  formato para entregar 
+-  documentos digitais 
+-  docs digitais 
+-  documentos eletronicos 
+-  documentos eletrônicos 
+-  sem acesso a internet 
+-  documentos offline 
+-  offline 
+-  acesso informações 
+-  posso inserir 
+-  documento fora 
+-  documentos fora 
+-  acesso fora 
+-  entregar  documentos
+-  enviar  documentos
+-  documentos existem 
+- melhor formato documentos SEI
+- docs do SEI tipos
+- tipificação docs SEI
+- tipos de documentação sEI
+- documentos eletronicos SEI
+- acessar documento eletronicos SEI
+- acessar documentos do SEI sem acesso a internet
+- acessar documentação offline SEI
+- como acesso informações contidas em documentos sem ser online?
