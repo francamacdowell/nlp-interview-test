@@ -21,9 +21,6 @@ intent: documentação
 confidence: 83.2%
 ```
 
-## Requirements
-- Put all the code, logic, hypotheses, etc. organized in the jupyter notebook of the repository (i.e. specific actions you would take based on your analysis) and methodology.
-
 ## Information about the datasets
 
 The dataset is in the dataset.txt file in the repository, it is in the format:
@@ -43,6 +40,11 @@ intent:intent_name2
 
 ...
 ```
+
+## Requirements
+- Put all the code, logic, hypotheses, etc. organized in the nlp_test.pynb jupyter notebook of the repository (i.e. specific actions you would take based on your analysis) and methodology.
+- Fork this repository
+- Make all changes in your fork
 
 Tip: it is interesting to put your different approaches and attempts in the notebook to support decision making<br/>
 Have fun!
