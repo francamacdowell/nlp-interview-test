@@ -44,7 +44,10 @@ intent:intent_name2
 ## Requirements
 - Put all the code, logic, hypotheses, etc. organized in the nlp_test.pynb jupyter notebook of the repository (i.e. specific actions you would take based on your analysis) and methodology.
 - Fork this repository
+- Make your fork private
+- Give access to the user "lucasraggi89" in your private fork
 - Make all changes in your fork
+- Only the commits before the deadline will be considered
 
 Tip: it is interesting to put your different approaches and attempts in the notebook to support decision making<br/>
 Have fun!
