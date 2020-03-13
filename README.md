@@ -48,6 +48,7 @@ intent:intent_name2
 - Give access to the user "lucasraggi89" in your private fork
 - Make all changes in your fork
 - Only the commits before the deadline will be considered
+- The deadline is in the 23:59 7 days from when you received this test
 
 Tip: it is interesting to put your different approaches and attempts in the notebook to support decision making<br/>
 Have fun!
